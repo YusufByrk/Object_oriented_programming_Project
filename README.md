@@ -1,5 +1,5 @@
 **English README:**
-# Object_oriented_programming_Project
+### (Object Oriented Programming)
 # PyWizards of the Coast Coding School Project
 
 ## Description
